@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1583820435 source:c:\users\24505\desktop\code\c\filesystem\filesystem.cpp
+	"FileSystem.h"
+
+1583821091 c:\users\24505\desktop\code\c\filesystem\filesystem.h
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<windows.h>
+
+1583821011 source:c:\users\24505\desktop\code\c\filesystem\main.cpp
+	"FileSystem.h"
+
